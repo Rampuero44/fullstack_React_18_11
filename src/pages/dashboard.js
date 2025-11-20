@@ -10,11 +10,12 @@ return(
         <NavBarPrincipal/>
         <SideMenu/>
         <Kpis/>
+        <Kpis/>
+
 
     </div>
 
 );
-
 
 }
 
